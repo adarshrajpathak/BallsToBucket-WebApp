@@ -1,4 +1,4 @@
-# Balls To Bucket WebApp <img src="res/bucket.png" alt="task" width="32" height="32">
+# Balls To Bucket WebApp <img src="res/bucket.png" alt="bucket" width="32" height="32">
 
 Check it out! 👉🏼 [Balls To Bucket WebApp](https://adarshrajpathak.github.io/BallsToBucket-WebApp/) by [Adarsh Raj Pathak](https://github.com/adarshrajpathak)
 
